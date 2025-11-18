@@ -14,7 +14,6 @@ const robotoMono = Roboto_Mono({
     subsets: ['latin']
 });
 
-export const dynamic = 'force-static';
 export const revalidate = false;
 
 const RootLayout = ({
